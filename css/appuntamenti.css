@@ -1,0 +1,17 @@
+html { 
+    overflow-y: scroll;
+}
+
+body {
+        font-family: 'Roboto Mono', monospace;
+        font-weight: 400;
+}
+
+.corsivo { 
+    font-family: 'Satisfy', cursive;
+}
+
+.jumbotron {
+    color: black;
+    background-color: #ffe073;
+}
